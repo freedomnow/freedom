@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow:
 
-Sitemap: http://cobaltchromeforever.com/sitemap.xml
+Sitemap: http://freedomnow.github.io/freedom/sitemap.xml
